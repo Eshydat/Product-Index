@@ -21,3 +21,5 @@ Visualization: Created a "Hitmap" and dynamic dashboards to show temporal data b
 Country Behavior: Germany showed resilience to the 2008 crisis, whereas the US saw a 21% revenue drop between 2008 and 2009.
 
 Top Category: 'Touring Bikes' (TOU) emerged as the most consistent revenue generator across both countries.
+
+![image alt](https://github.com/Eshydat/Product-Index/blob/1e80fb4fb1dbc99bd6bb6f80e24a08f0c0e7f77b/Screenshot%202026-01-13%20080348.png)
